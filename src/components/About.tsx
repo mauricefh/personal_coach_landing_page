@@ -1,4 +1,4 @@
-import { about, fullName } from "@/constants";
+import { about } from "@/constants";
 import Image from "next/image";
 import { Card } from "@/components/ui/card";
 

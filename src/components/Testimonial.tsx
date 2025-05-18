@@ -14,8 +14,8 @@ export default function Testimonials() {
             Client Transformations
           </h2>
           <p className="text-lg text-gray-600 dark:text-gray-300 max-w-3xl mx-auto">
-            Hear from those who've experienced breakthrough changes through our
-            coaching
+            Hear from those who&apos;ve experienced breakthrough changes through
+            our coaching
           </p>
         </div>
 
@@ -49,7 +49,7 @@ export default function Testimonials() {
               <div className="space-y-4">
                 <p className="text-gray-700 dark:text-gray-300 italic relative">
                   <span className="absolute -left-6 -top-4 text-5xl text-gray-200 dark:text-gray-700">
-                    "
+                    &apos;
                   </span>
                   {testimonial.desc}
                 </p>

@@ -35,7 +35,7 @@ export default function Services() {
                 <div className="flex justify-between items-start">
                   <CardTitle className="text-2xl">{service.title}</CardTitle>
                   {service.popular && (
-                    <Badge variant="premium" className="ml-2">
+                    <Badge variant="default" className="ml-2">
                       Most Popular
                     </Badge>
                   )}
