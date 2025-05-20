@@ -1,10 +1,6 @@
 import { testimonials } from "../constants";
-import { Card } from "../../components/ui/card";
-import {
-  Avatar,
-  AvatarImage,
-  AvatarFallback,
-} from "../../components/ui/avatar";
+import { Card } from "@/components/ui/card";
+import { Avatar, AvatarImage, AvatarFallback } from "@/components/ui/avatar";
 
 export default function Testimonials() {
   return (
